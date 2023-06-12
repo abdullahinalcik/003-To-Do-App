@@ -3,6 +3,9 @@
     margin: 0;
     box-sizing: border-box;
   }
+  h1{
+    text-align: center;
+  }
   
   .container {
    
@@ -13,6 +16,8 @@
     padding-top: 50px;
     /* background-color: #e1e3ea; */
     background-image: url(./1600w-_Tcjok-d9b4.webp);
+    /* background-repeat: no-repeat; */
+    background-size: cover;
     height: 100vh;
     font-family: sans-serif;
     & input{
